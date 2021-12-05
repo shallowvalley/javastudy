@@ -4,5 +4,8 @@
  dir (check the catagory of a directory)
  cd.. (return to the parent directory)
  cd/  (go back to the root directory)
- del docudmentnameandformat  (delete the document)
+ del docudmentname.format  (delete the document)
  rd filename (remove a empty file, or it will ask whether you want to delete all the documents inside the file) 
+ exit (quit dos mod)
+
+ echo context>documentname.format (generate a certain format document with certain context in it.)
