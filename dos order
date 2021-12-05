@@ -1,5 +1,6 @@
 /* dos order
  cd filename (enter into a file directory)
+ md filename (creat a new file)
  dir (check the catagory of a directory)
  cd.. (return to the parent directory)
  cd/  (go back to the root directory)
